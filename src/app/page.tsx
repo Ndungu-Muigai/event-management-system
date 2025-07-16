@@ -1,8 +1,10 @@
+import ComingSoon from "./Components/Loading";
+
 const Home = () => 
 {
   return ( 
     <>
-      <p>Event management system coming up</p>
+      <ComingSoon/>
     </>
    );
 }
