@@ -1,4 +1,4 @@
-# 🎉 Event Management System
+# Event Management System
 
 A full-stack **Event Management System** built with **Next.js**, enabling organizers to create and manage events, and users to RSVP or buy tickets. It supports ticket generation, role-based dashboards, and Stripe integration for payments.
 
