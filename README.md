@@ -55,7 +55,7 @@ A full-stack **Event Management System** built with **Next.js**, enabling organi
 | Authentication| NextAuth.js (Google, Email login)        |
 | Payments      | Stripe API                               |
 | Media Uploads | Cloudinary / UploadThing                 |
-| Emails        | Resend / Nodemailer / SendGrid           |
+| Emails        | Brevo                                    |
 | QR Code       | `react-qr-code`                          |
 | Deployment    | Vercel (Frontend & Backend), Railway (DB) |
 
